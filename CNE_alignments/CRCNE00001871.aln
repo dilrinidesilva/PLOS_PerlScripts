@@ -1,0 +1,38 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+human           AAAAAAGTGGCTATTTATTAGAATACTTGTTTGGTATTGTTCCGCGCCACACAAAAGGCG
+mouse           AAAAACGCGGCTATTTATTAGAATACTTGTTTGGTATTGTTCAGTGCCACACAAAAGGCG
+chicken         AAAAAAGTGGCTATTTATTAGAATACTTGTTTGGTATTGTTCCGTGCCACACAAAAG-CG
+frog            AAAAAAGTGGCTATTTATTAGAATACTTGTTTGCTATTGTTCCCTGCCACACAAAAGACG
+zfish           AAAAAAGTGGCTATTTATTAGAATACTTGTTTTGTATTGTTCCGCGTCACACAAAAGGGG
+macaque         AAAAAAGTGGCTATTTATTAGAATACTTGTTT----------------------------
+fugu            AAAAAAGTGGCTATTTATTAGAATACTTGTTTAGTATTGTTCTGCGCCACACAAAAGATG
+                ***** * ************************                            
+
+human           TTTCATTATGTGGAGGGA---------TCTCCTTTTTCCAGAGAGA--AACAATAACTTG
+mouse           CTTCATTATGTGGCGGGA---------TCCCCCTTTTCCAGAGAGA--AACAATAACCTG
+chicken         TTCCATTATGTCGGGG--------------------------------------------
+frog            TTTCATTATGTTAGGGGAAAAAAGGCCTCCCTTTATTCCAGAGAGAGAAACAATAACTTG
+zfish           CTTTATTATGTAAGAAGG----------AACCCTTTCGCCGGGAGA--AACAATAACTTG
+macaque         ------------------------------------------------------------
+fugu            CTTCATTGTGTCAGAAGCAAG-------CCCCCTTTCGCAGAGAGA--AACAATAACTTG
+                                                                            
+
+human           AAATTGTCTTTAAAGTCTTTTCTATCAATAATAAATTTCATTTTCTTGTCTCTCTCGCCT
+mouse           AAATTGTCTTGCGAGTCTTTTCTATCAATAATAAATTTCATTTTCTTGTCTCTCTCGCCT
+chicken         ------------------------------------------------------------
+frog            AAATTGTCTTCAAAGTCTTTACTATCAATAATAAATTTCATTTTCTTGTCTTCCTGCCTT
+zfish           AAATTGTCTTTAGAGTCT---------ATAATAAATTTCATTTTCTTGTCTCTCTCCTCA
+macaque         ------------------------------------------------------------
+fugu            GAATTGTATTTTGAGGGTGT-------ATAATAAATGCCATTTCTTCTTGTCTCTGCCCC
+                                                                            
+
+human           GCAGTGT
+mouse           GCAGTGT
+chicken         -------
+frog            GCAGTGT
+zfish           GTGT---
+macaque         -------
+fugu            TCAGTGT
+                       

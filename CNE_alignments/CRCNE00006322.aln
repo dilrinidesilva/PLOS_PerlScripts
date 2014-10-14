@@ -1,0 +1,56 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+mouse           AGACATATTCAGATGGGAACGTCTTGCTTGCCAATTGCCATAGAAATCTTAACACACCAT
+frog            -------------------------GCTTACCAATTACCATGGTAATCCTAACACACCAT
+chicken         --------------------------CTTGCCTATTGCCATAGAAATCCTAACTTACCAT
+human           AGACATATTCAGATGGGAACGTCTTGCTTGCCAATTGCCATAGAAATCTTAACACACCAT
+macaque         AGACATATTCAGATGGGAACGTCTTGCTTGCCAATTGCCATAGAAATCTTAACACACCAT
+fugu            AGTCGCGTTGAAATGTGAGCATCTCGCCACCCAATTGCCATAGAAATCCCAACACGCCAT
+zfish           ------------------------------------------------------------
+                                                                            
+
+mouse           GAAGATTGTCCAAGCGCCAAGCCTTCCGTTCTGGACTAAATTACTTTGAAGTGGCTCAGG
+frog            GAAGATTGCCCAAGCGCCAAGCCTTCCGTTCTG---------------------------
+chicken         GAAGATTCACCG------------------------------------------------
+human           GAAGATTGTCCGAGCGCCAAGCCTTCCGTTCTGGACTAAATTACTTTGAAGTGGCGCAGT
+macaque         GAAGATTGTCCGAGCGCCAAGCCTTCCGTTCTGGACTAAATTACTTTGAAGTGGCGCAGG
+fugu            GAAGACTGTTAAAGCGGTCAGCCTTCCTCTCAGAAGCTGCAGCCTTTGAAGTGGCGCGCA
+zfish           ------------------CAGTCTTCCGTTCTGATGTGGGGCTCTTTGAAGTGGTGCAGC
+                                                                            
+
+mouse           ACGAGCAGTGGTCAATTTTAACTCTATAGACTGGACAGAAGAGGCTGGGAGTGGGAGATT
+frog            ------------------------------------------------------------
+chicken         ------------------------------------------------------------
+human           ACGAGCAGTGGTCAATTTTAACTCTATAGACTGGACAGAGAATGCTGGGAGTGGGAGATT
+macaque         ACGAGCAGTGGTCAATTTTAACTCTATAGACTGGACAGAGAACGCTGGGAGTGGGAGATT
+fugu            ACTCGCGTTGGTCAATTTTCGCTGTAAAGGCCGGACAGCCAAGTCTTTGAAAGTGAGGTT
+zfish           ACTTGCGCTGGTCAGTTCTGAGTCTATAGTCTGGG-ACAGGGGGCACTTTGGAAGTGTGA
+                                                                            
+
+mouse           GTGCGTTTTAAAGCAGAAAATAAGAAGGGGAAACTTGTTTTATACACTCTATACAAGCTT
+frog            ------------------------------------------------------------
+chicken         ------------------------------------------------------------
+human           GTGCGTTTTAAAGCAGAAAATAAGAAGGGGAAACTTGTTTTATACACTCTATACAAGGTT
+macaque         GTGCGTTTTAAAGCAGAAAATAAGAAGGGGAAACTTGTTTTATACACTCTATACAAGGTT
+fugu            GTGCGTTTTAATGGAGGAAATAA-AAGGAGGAACTTGTTTAATACACTCTATACAAGGCG
+zfish           CTGTGTTTTAATGAAGGAAAGAAGACAAGGCACTTTGTTTTATATTCTCCATACAACTTT
+                                                                            
+
+mouse           CTGCTCATTGTCAGATATCTTTTATCTTTTATATTTCCCATGAATGATTCATGTCTTGGT
+frog            ------------------------------------------------------------
+chicken         ------------------------------------------------------------
+human           CTGCTCATTGTCAGATATCTTTTATCTTTTATATTTCCCATGAATGATTCATGTCTTGGT
+macaque         CTGCTCATTGTCAGATATCTTTTATCTTTTATATTTCCCATGAATGATTCATGTCTTGGT
+fugu            ATGCTTATTGTCAGAAATCTTTTATCTTTTCT-TTTCCCATGAATGATTCATGCCTCGGC
+zfish           CTTTTCATTGTCAGATAGCTTTATGCCTTATA--TTCCCATGAATGATTCATGTATTGAT
+                                                                            
+
+mouse           GGCTTTGTATCACCCTTC------
+frog            ------------------------
+chicken         ------------------------
+human           GGCTTTGTGTCACCCTTC------
+macaque         GGCTTTGTGTCACCCTTC------
+fugu            TGCTTTGTGCTATACGCGCCTTTC
+zfish           GGCTTTGTGCTAT-----------
+                                        

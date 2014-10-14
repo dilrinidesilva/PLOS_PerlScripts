@@ -1,0 +1,20 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+human           -TCTACTTTAAAGGGCAGGCTTTGACAAAACCTGATCAATATTTTGCATTCCATGCATGA
+macaque         -TCTACTTTAAAGGGGAGGCTTTGACAAAACCTGATCAATATTTTGCATTCCATGCATGA
+mouse           ---TACTTTAAAGGGGCAGCCGTGACCAAACCTGATCAATATTTTACATCCCATGCATGA
+chicken         -TCTGATTTAAAGTGG-AGCTTTGACTAAAGCTGATCAATATTTTGCATGCCATGCGTGA
+frog            ----------------------------AATCTGATCAATATTTTGCTTTCCATGCGTGA
+fugu            TCTCTATGAGAGAGCGAGGATTTAACACACCGTGATCAATATTAAGCATCCCATGCGTGA
+zfish           -------------------------------GTGATCAATATTTAGCATCCCATGCGTGA
+                                                ***********   * * ****** ***
+
+human           GG-AACCAGATGTTAGAAGTTTCCT-----------------------
+macaque         GG-AACCAGATGTTAGAAGTTTCCT-----------------------
+mouse           AG-AACCAGATGTTAGAAGTTTCCT-----------------------
+chicken         AG-AACCAGATGTTGGAAGTTTCCT-----------------------
+frog            AG-AACCAGATGTTAGAAGTTTCCT-----------------------
+fugu            AAAAAGCAGATGTTTGGAGTTTCCTTTTCAGAGACAGGAGGCTTCTGG
+zfish           AACAGGCAGATGTTTGGAGTTTCCTTTTCAGAAACGAAAGACTTCT--
+                   *  ******** * ********                       
